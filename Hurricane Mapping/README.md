@@ -1,5 +1,7 @@
 # Hurrican Mapping Assignment
 
+### Mapping_new.pdf is the final result you can check!
+
 For each of these maps make two maps that match them in functional appearance. In other words, the
 information available on the map you make should be the same as the information available on the maps
 above – even if, for example, the colors are different. You will make four maps in total.
